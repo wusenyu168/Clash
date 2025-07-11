@@ -28,6 +28,8 @@ payload:
   - IP-CIDR,192.35.50.0/24,no-resolve
   - IP-CIDR,198.183.17.0/24,no-resolve
   - IP-CIDR,205.180.175.0/24,no-resolve
+
   - DOMAIN-KEYWORD,itunes.apple
   - DOMAIN-KEYWORD,updates.cdn-apple
   - DOMAIN-KEYWORD,icloud
+  - DOMAIN-KEYWORD,apple
