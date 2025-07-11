@@ -1,0 +1,28 @@
+payload:
+
+#MATE
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,whatsapp.biz
+  - DOMAIN-SUFFIX,bintray.com
+  - DOMAIN-KEYWORD,facebook
+  - DOMAIN-KEYWORD,whatsapp
+  - DOMAIN-KEYWORD,instagram
+
+#小红书
+  - DOMAIN-KEYWORD,xiaohongshu
+  - DOMAIN-KEYWORD,xhscdn
+
+#全球购
+  - DOMAIN-SUFFIX,club.threeyuwan.cc
+  - DOMAIN-SUFFIX,gloabestincome.cc
+  - DOMAIN-SUFFIX,globalbestgo.cc
+  - DOMAIN-SUFFIX,globalbestgo.store
+  - DOMAIN-SUFFIX,globalbestgo.boats
+  - DOMAIN-SUFFIX,qqg1234.cyou
+  - DOMAIN-SUFFIX,mj888.bond
+  - DOMAIN-SUFFIX,www.jztk66.com
+  - DOMAIN-SUFFIX,www.jztk88.com
+
+
+
