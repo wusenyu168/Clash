@@ -365,9 +365,5 @@ payload:
   - DOMAIN-SUFFIX,netcut.cn
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
 
-#工作软件
-  - DOMAIN-KEYWORD,bitbrowser
-  - DOMAIN-KEYWORD,kookeey
-  - DOMAIN-KEYWORD,ip2world
-  - DOMAIN-KEYWORD,youdao
-  - DOMAIN-KEYWORD,kt8899
+  - DOMAIN-SUFFIX,youdao.com
+
