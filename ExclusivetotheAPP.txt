@@ -8,7 +8,8 @@ payload:
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,whatsapp
   - DOMAIN-KEYWORD,instagram
-
+#有道
+  - DOMAIN-KEYWORD,youdao
 #小红书
   - DOMAIN-KEYWORD,xiaohongshu
   - DOMAIN-KEYWORD,xhscdn
