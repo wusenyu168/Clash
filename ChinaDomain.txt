@@ -376,6 +376,7 @@ payload:
   - DOMAIN-SUFFIX,17173.com
   - DOMAIN-SUFFIX,178.com
   - DOMAIN-SUFFIX,17k.com
+  - DOMAIN-SUFFIX,qimao.com
   - DOMAIN-SUFFIX,360doc.com
   - DOMAIN-SUFFIX,36kr.com
   - DOMAIN-SUFFIX,3dmgame.com
