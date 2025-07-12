@@ -1,0 +1,19 @@
+payload:
+  - DOMAIN-KEYWORD,iqiyi
+  - DOMAIN-KEYWORD,qq
+  - DOMAIN-KEYWORD,v.qq
+  - DOMAIN-KEYWORD,youku
+  - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-KEYWORD,mgtv
+  - DOMAIN-KEYWORD,tv.sohu
+  - DOMAIN-KEYWORD,le
+  - DOMAIN-KEYWORD,fun
+  - DOMAIN-KEYWORD,pptv
+  - DOMAIN-KEYWORD,xiaochuankeji
+  - DOMAIN-KEYWORD,wasu
+  - DOMAIN-KEYWORD,tv.cctv
+  - DOMAIN-KEYWORD,miaopai
+  - DOMAIN-KEYWORD,ixigua
+  - DOMAIN-KEYWORD,douyin
+  - DOMAIN-KEYWORD,kuaishou
+  - DOMAIN-KEYWORD,douyin
