@@ -269,7 +269,6 @@ payload:
   - DOMAIN-SUFFIX,lofter.com
   - DOMAIN-SUFFIX,netease.com
   - DOMAIN-SUFFIX,ydstatic.com
-  - DOMAIN-SUFFIX,youdao.com
   - DOMAIN-SUFFIX,pplive.com
   - DOMAIN-SUFFIX,pptv.com
   - DOMAIN-SUFFIX,pinduoduo.com
