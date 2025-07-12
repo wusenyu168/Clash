@@ -364,6 +364,9 @@ payload:
   - DOMAIN,music.youtube.com
   - DOMAIN-SUFFIX,netcut.cn
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
-
-  - DOMAIN-SUFFIX,youdao.com
+  - DOMAIN-KEYWORD,bitbrowser
+  - DOMAIN-KEYWORD,kookeey
+  - DOMAIN-KEYWORD,ip2world
+  - DOMAIN-KEYWORD,youdao
+  - DOMAIN-KEYWORD,kt8899
 
