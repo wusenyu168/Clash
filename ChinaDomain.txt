@@ -478,7 +478,6 @@ payload:
   - DOMAIN-SUFFIX,ifengimg.com
   - DOMAIN-SUFFIX,images-amazon.com
   - DOMAIN-SUFFIX,infzm.com
-
   - DOMAIN-SUFFIX,it168.com
   - DOMAIN-SUFFIX,ithome.com
   - DOMAIN-SUFFIX,ixdzs.com
