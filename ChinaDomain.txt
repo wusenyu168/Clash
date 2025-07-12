@@ -127,7 +127,7 @@ payload:
   - DOMAIN-SUFFIX,huoshan.com
   - DOMAIN-SUFFIX,huoshanzhibo.com
   - DOMAIN-SUFFIX,ibytedapm.com
-  - DOMAIN-SUFFIX,iesdouyin.com
+
   - DOMAIN-SUFFIX,ixigua.com
   - DOMAIN-SUFFIX,kspkg.com
   - DOMAIN-SUFFIX,pstatp.com
