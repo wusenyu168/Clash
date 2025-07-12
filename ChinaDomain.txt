@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,423down.com
   - DOMAIN-SUFFIX,bokecc.com
   - DOMAIN-SUFFIX,chaipip.com
+  - DOMAIN-SUFFIX,ipip.net
   - DOMAIN-SUFFIX,chinaplay.store
   - DOMAIN-SUFFIX,hrtsea.com
   - DOMAIN-SUFFIX,kaikeba.com
