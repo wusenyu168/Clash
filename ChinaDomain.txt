@@ -103,15 +103,7 @@ payload:
   - DOMAIN-SUFFIX,b23.tv
   - DOMAIN-SUFFIX,bigfun.cn
   - DOMAIN-SUFFIX,bigfunapp.cn
-  - DOMAIN-SUFFIX,biliapi.com
-  - DOMAIN-SUFFIX,biliapi.net
-  - DOMAIN-SUFFIX,bilibili.com
-  - DOMAIN-SUFFIX,bilibili.co
-  - DOMAIN-SUFFIX,biliintl.co
-  - DOMAIN-SUFFIX,biligame.com
-  - DOMAIN-SUFFIX,biligame.net
-  - DOMAIN-SUFFIX,bilivideo.com
-  - DOMAIN-SUFFIX,bilivideo.cn
+
   - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,im9.com
   - DOMAIN-SUFFIX,smtcdns.net
@@ -128,11 +120,7 @@ payload:
   - DOMAIN-SUFFIX,bytescm.com
   - DOMAIN-SUFFIX,bytetos.com
   - DOMAIN-SUFFIX,bytexservice.com
-  - DOMAIN-SUFFIX,douyin.com
-  - DOMAIN-SUFFIX,douyincdn.com
-  - DOMAIN-SUFFIX,douyinpic.com
-  - DOMAIN-SUFFIX,douyinstatic.com
-  - DOMAIN-SUFFIX,douyinvod.com
+ 
   - DOMAIN-SUFFIX,feelgood.cn
   - DOMAIN-SUFFIX,feiliao.com
   - DOMAIN-SUFFIX,gifshow.com
@@ -221,8 +209,7 @@ payload:
   - DOMAIN-SUFFIX,iflytek.com
   - DOMAIN-SUFFIX,71.am
   - DOMAIN-SUFFIX,71edge.com
-  - DOMAIN-SUFFIX,iqiyi.com
-  - DOMAIN-SUFFIX,iqiyipic.com
+
   - DOMAIN-SUFFIX,ppsimg.com
   - DOMAIN-SUFFIX,qiyi.com
   - DOMAIN-SUFFIX,qiyipic.com
@@ -238,7 +225,7 @@ payload:
   - DOMAIN-SUFFIX,iciba.com
   - DOMAIN-SUFFIX,ksosoft.com
   - DOMAIN-SUFFIX,ksyun.com
-  - DOMAIN-SUFFIX,kuaishou.com
+
   - DOMAIN-SUFFIX,yximgs.com
   - DOMAIN-SUFFIX,meitu.com
   - DOMAIN-SUFFIX,meitudata.com
@@ -324,9 +311,7 @@ payload:
   - DOMAIN-SUFFIX,igamecj.com
   - DOMAIN-SUFFIX,myapp.com
   - DOMAIN-SUFFIX,myqcloud.com
-  - DOMAIN-SUFFIX,qq.com
-  - DOMAIN-SUFFIX,qqmail.com
-  - DOMAIN-SUFFIX,qqurl.com
+
   - DOMAIN-SUFFIX,smtcdns.com
   - DOMAIN-SUFFIX,smtcdns.net
   - DOMAIN-SUFFIX,soso.com
