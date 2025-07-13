@@ -1,2 +1,3 @@
 payload:
   - DOMAIN-KEYWORD,startselect.com  #英国礼品卡
+  - DOMAIN-KEYWORD,whoer
