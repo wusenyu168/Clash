@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-KEYWORD,bitbrowser #指纹浏览器
+  - DOMAIN-KEYWORD,startselect.com  #英国礼品卡
