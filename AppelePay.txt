@@ -11,3 +11,6 @@ payload:
   - DOMAIN-KEYWORD,gsas.apple
   - DOMAIN-KEYWORD,wps.apple.com
   - DOMAIN-KEYWORD,ocsp2.apple
+
+#时间同步
+  - DOMAIN-SUFFIX,time.apple.com
