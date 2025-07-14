@@ -49,3 +49,4 @@ payload:
   - DOMAIN-KEYWORD,bitforex
   - DOMAIN-KEYWORD,hitbtc
   - DOMAIN-KEYWORD,bibox
+  - DOMAIN-KEYWORD,tronscan.org
