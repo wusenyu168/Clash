@@ -13,4 +13,4 @@ payload:
   - DOMAIN-KEYWORD,ocsp2.apple
 
 #时间同步
-  - DOMAIN-SUFFIX,time.apple.com
+  - DOMAIN-KEYWORD,time.apple.com
