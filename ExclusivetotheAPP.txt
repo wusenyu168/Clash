@@ -23,3 +23,5 @@ payload:
   - DOMAIN-SUFFIX,www.jztk66.com
   - DOMAIN-SUFFIX,www.jztk88.com
 
+#KT查IP
+  - DOMAIN-SUFFIX,ip111.cn
