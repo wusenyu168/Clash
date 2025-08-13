@@ -3,4 +3,3 @@ payload:
   - DOMAIN-KEYWORD,kookeey
   - DOMAIN-KEYWORD,ip2world
   - DOMAIN-KEYWORD,youdao
-  - DOMAIN-KEYWORD,kt8899
