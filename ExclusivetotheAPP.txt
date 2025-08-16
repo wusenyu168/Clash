@@ -25,3 +25,6 @@ payload:
 
 #KT查IP
   - DOMAIN-SUFFIX,ip111.cn
+  
+#交友网站
+  - DOMAIN-KEYWORD,indiancupid
