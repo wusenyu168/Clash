@@ -6897,3 +6897,16 @@ payload:
   - DOMAIN-SUFFIX,ocnttv.com
   - DOMAIN-SUFFIX,vikacg.com
   - DOMAIN-SUFFIX,picjs.xyz
+#全球购
+  - DOMAIN-SUFFIX,club.yuwanplus88.cc
+  - DOMAIN-SUFFIX,gloabestincome.cc
+  - DOMAIN-SUFFIX,globalbestgo.cc
+  - DOMAIN-SUFFIX,globalbestgo.store
+  - DOMAIN-SUFFIX,globalbestgo.boats
+  - DOMAIN-SUFFIX,qqg1234.cyou
+  - DOMAIN-SUFFIX,mj888.bond
+  - DOMAIN-SUFFIX,www.jztk66.com
+  - DOMAIN-SUFFIX,www.jztk88.com
+
+#KT查IP
+  - DOMAIN-SUFFIX,ip111.cn
