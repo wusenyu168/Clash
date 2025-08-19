@@ -11,20 +11,6 @@ payload:
 #小红书
   - DOMAIN-KEYWORD,xiaohongshu
   - DOMAIN-KEYWORD,xhscdn
-
-#全球购
-  - DOMAIN-SUFFIX,club.yuwanplus88.cc
-  - DOMAIN-SUFFIX,gloabestincome.cc
-  - DOMAIN-SUFFIX,globalbestgo.cc
-  - DOMAIN-SUFFIX,globalbestgo.store
-  - DOMAIN-SUFFIX,globalbestgo.boats
-  - DOMAIN-SUFFIX,qqg1234.cyou
-  - DOMAIN-SUFFIX,mj888.bond
-  - DOMAIN-SUFFIX,www.jztk66.com
-  - DOMAIN-SUFFIX,www.jztk88.com
-
-#KT查IP
-  - DOMAIN-SUFFIX,ip111.cn
-  
+ 
 #交友网站
   - DOMAIN-KEYWORD,indiancupid
