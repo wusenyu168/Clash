@@ -33,3 +33,6 @@ payload:
   - DOMAIN-KEYWORD,updates.cdn-apple
   - DOMAIN-KEYWORD,icloud
   - DOMAIN-KEYWORD,apple
+
+#礼品卡
+  - DOMAIN,aeneba.com
