@@ -35,4 +35,6 @@ payload:
   - DOMAIN-KEYWORD,apple
 
 #礼品卡
-  - DOMAIN-SUFFIX,aeneba.com
+  - DOMAIN-KEYWORD,eneba
+
+
