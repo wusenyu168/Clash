@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN,apple.comscoreresearch.com
+  - DOMAIN-SUFFIX,apple.comscoreresearch.com
   - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,apple-cloudkit.com
@@ -35,4 +35,4 @@ payload:
   - DOMAIN-KEYWORD,apple
 
 #礼品卡
-  - DOMAIN,aeneba.com
+  - DOMAIN-SUFFIX,aeneba.com
