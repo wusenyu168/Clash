@@ -15,6 +15,5 @@ payload:
 #交友网站
   - DOMAIN-KEYWORD,indiancupid
 
-#有道
-  - DOMAIN-KEYWORD,youdao
+
 
