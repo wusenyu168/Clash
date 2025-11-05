@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-KEYWORD,youdao
   - DOMAIN-SUFFIX,1password.com
   - DOMAIN-SUFFIX,adguard.org
   - DOMAIN-SUFFIX,bit.no.com
@@ -6911,4 +6910,5 @@ payload:
 
 #KT查IP
   - DOMAIN-SUFFIX,ip111.cn
+
 
