@@ -7,7 +7,6 @@ payload:
   - DOMAIN-KEYWORD,bitfinex
   - DOMAIN-KEYWORD,bittrex
   - DOMAIN-KEYWORD,kucoin
-  - DOMAIN-KEYWORD,gate
   - DOMAIN-KEYWORD,bitstamp
   - DOMAIN-KEYWORD,crypto
   - DOMAIN-KEYWORD,bybit
