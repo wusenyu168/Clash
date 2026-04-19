@@ -10,6 +10,7 @@ payload:
   - DOMAIN-KEYWORD,instagram
 #小红书
   - DOMAIN-KEYWORD,xiaohongshu
+  - DOMAIN-KEYWORD,rednote
   - DOMAIN-KEYWORD,xhscdn
  
 #交友网站
